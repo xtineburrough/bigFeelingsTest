@@ -32,28 +32,28 @@ L.tileLayer(tiles, {
 /**
  *  Called (by main.js) on load and after form submission
  */
-function updateMap(data) {  
-  
+function updateMap(data) {
+
   // 👉 add code inside this function in Chapter 10 Ex. 10.3.1 Steps 4...
   removeMarkers();
   for (let i = 0; i < data.length; i++) {
-console.log(data[i]);
-markerLayer[i] = createMarker(data[i]);
+    console.log(data[i]);
+    markerLayer[i] = createMarker(data[i]);
 
-}
+  }
 
-  
+
   // remove all the markers
   removeMarkers();
 
   // loop through JSON
   for (let i = 0; i < data.length; i++) {
     // console.log(data[i]);
-    
+
     // create marker and add to array
     markerLayer[i] = createMarker(data[i]);
   }
-  
+
   // 👈
 }
 
@@ -70,10 +70,10 @@ function createMarker(row) {
     fillOpacity: getFillOpacity(),
     className: "blur",
   });
- let popup = L.popup({className: "hello"}).setContent(popupContent);
+  let popup = L.popup({ className: "hello" }).setContent(popupContent);
   marker
     .addTo(map).bindPopup(popup)
-    .on('click', function(){
+    .on('click', function () {
       console.log("createMarker()", color)
       // updatePopupColor(color)
     });
@@ -81,17 +81,17 @@ function createMarker(row) {
 }
 
 
-function updatePopupColor(color){
-      console.log("updatePopupColor()", color)
+function updatePopupColor(color) {
+  console.log("updatePopupColor()", color)
   let wrapper = document.querySelector(".leaflet-popup-content-wrapper");
-  let tip = document.querySelector(".leaflet-popup-tip");  
+  let tip = document.querySelector(".leaflet-popup-tip");
   wrapper.style.backgroundColor = color;
   tip.style.backgroundColor = color;
-  
-  
+
+
   // let parent = document.querySelector(".leaflet-popup");
   // parent.style.backgroundColor = color;
-  
+
 }
 
 
@@ -103,15 +103,15 @@ function updatePopupColor(color){
 // web form inside popup
 let inputMarker;
 let inputMarkerPopup = L.popup()
-      .setLatLng(L.latLng([0,0]))
-      .setContent(getInputMarkerPopup(L.latLng([0,0])))
-      // .openOn(map);
+  .setLatLng(L.latLng([0, 0]))
+  .setContent(getInputMarkerPopup(L.latLng([0, 0])))
+// .openOn(map);
 
 
 
 
-function getInputMarkerPopup(latlng, show=false){
-  
+function getInputMarkerPopup(latlng, show = false) {
+
   return `<form class="popupInput">
   
           <div class="row">
@@ -185,7 +185,7 @@ map.on("click", (e) => {
   //   inputMarker.setLatLng(latlng).update();
   // }
 
-  
+
 
   console.log(latlng);
   // inputMarkerPopup.setLatLng(latlng).setContent(latlng.toString()).openOn(map);
@@ -194,7 +194,7 @@ map.on("click", (e) => {
   // updatePopupColor("white");
   let location = document.querySelector("#location");
   location.value = `${latlng.lat},${latlng.lng}`;
-  
+
   document.querySelector(".submitBtn").addEventListener("click", submitForm);
   updateOptions(colors);
 });
@@ -227,7 +227,7 @@ function removeMarkers() {
   // remove visible marker
   for (let i = 0; i < markerLayer.length; i++) {
     map.removeLayer(markerLayer[i]);
-  }  
+  }
   // empty the array
   markerLayer = [];
 }
