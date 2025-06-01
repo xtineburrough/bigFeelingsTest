@@ -1,0 +1,723 @@
+[
+    {
+        "_id": "4b58cqtj92",
+        "feeling": "Irreverent",
+        "color": "#9F01AA",
+        "lat": 32.914833069,
+        "lng": 35.359985352,
+        "datetime": "2025-05-31T01:23:14.073Z"
+    },
+    {
+        "_id": "repfnsp3id",
+        "feeling": "WTF?",
+        "color": "#4117FF",
+        "lat": 13.616595268,
+        "lng": 100.718803406,
+        "datetime": "2025-05-31T01:23:16.283Z"
+    },
+    {
+        "_id": "9loj7ed0mt",
+        "feeling": "Lonely AF",
+        "color": "#095FFF",
+        "lat": 13.788314819,
+        "lng": 100.479003906,
+        "datetime": "2025-05-31T01:23:18.092Z"
+    },
+    {
+        "_id": "idanzu8sgi",
+        "feeling": "TGIF",
+        "color": "#FF5A0A",
+        "lat": 40.032985687,
+        "lng": -82.904426575,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "ejpy516lix",
+        "feeling": "WTF?",
+        "color": "#4117FF",
+        "lat": -23.678829193,
+        "lng": -46.552867889,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "oq9xrpglvn",
+        "feeling": "Irreverent",
+        "color": "#9F01AA",
+        "lat": 43.609329224,
+        "lng": 3.87434864,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "q6kj7xs3e9",
+        "feeling": "Totz Bored",
+        "color": "#FF2E24",
+        "lat": 30.006000519,
+        "lng": 31.199832916,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "sh77rfw2ig",
+        "feeling": "Wait, whaaaat?",
+        "color": "#FF073A",
+        "lat": 55.724094391,
+        "lng": 37.654537201,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "e258adez3l",
+        "feeling": "YAZZZZ!",
+        "color": "#FFD538",
+        "lat": 33.816955566,
+        "lng": -117.924575806,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "0i5vrspz24",
+        "feeling": "Tired of this Sh*t",
+        "color": "#5E01F3",
+        "lat": 1.392139316,
+        "lng": 103.745780945,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "nq4kd4wlnp",
+        "feeling": "Dreamy",
+        "color": "#FFA620",
+        "lat": 60.040500641,
+        "lng": 30.409666061,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "0c65g1byfo",
+        "feeling": "Lonely AF",
+        "color": "#095FFF",
+        "lat": 45.712833405,
+        "lng": 12.192832947,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "tlgikv0m0p",
+        "feeling": "Sneaky",
+        "color": "#D10172",
+        "lat": 33.868713379,
+        "lng": -117.922531128,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "bj22zpchpd",
+        "feeling": "Need a Xanax",
+        "color": "#2837FF",
+        "lat": 44.796482086,
+        "lng": -0.588617027,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "yr18gxytd6",
+        "feeling": "In the Zone",
+        "color": "#FF800C",
+        "lat": 44.611999512,
+        "lng": 33.517665863,
+        "datetime": "2025-05-31T01:23:21.047Z"
+    },
+    {
+        "_id": "gh5o4xt6ga",
+        "feeling": "Irreverent",
+        "color": "#9F01AA",
+        "lat": -3.742127895,
+        "lng": -38.501602173,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "smcmctxhns",
+        "feeling": "Totz Bored",
+        "color": "#FF2E24",
+        "lat": 59.9426651,
+        "lng": 30.2935009,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "ogladpeksl",
+        "feeling": "Dreamy",
+        "color": "#FFA620",
+        "lat": 51.436313629,
+        "lng": 5.4853158,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "9fy2jeewv4",
+        "feeling": "Wait, whaaaat?",
+        "color": "#FF073A",
+        "lat": 44.356933594,
+        "lng": 9.148862839,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "we2kbshhoh",
+        "feeling": "In the Zone",
+        "color": "#FF800C",
+        "lat": 60.803703308,
+        "lng": 11.669874191,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "rc74hcur0n",
+        "feeling": "YAZZZZ!",
+        "color": "#FFD538",
+        "lat": 41.383834839,
+        "lng": 2.182314873,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "ol8y9ftyjl",
+        "feeling": "WTF?",
+        "color": "#4117FF",
+        "lat": 55.777462006,
+        "lng": 37.604370117,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "5frtalpi1o",
+        "feeling": "Need a Xanax",
+        "color": "#2837FF",
+        "lat": 13.877350807,
+        "lng": 100.467788696,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "4ac7p33a6r",
+        "feeling": "Tired of this Sh*t",
+        "color": "#5E01F3",
+        "lat": 47.276603699,
+        "lng": -2.208636045,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "lj5ago8hb7",
+        "feeling": "TGIF",
+        "color": "#FF5A0A",
+        "lat": 50.932804108,
+        "lng": 3.112180948,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "e0r0doy4f5",
+        "feeling": "Lonely AF",
+        "color": "#095FFF",
+        "lat": -23.505149841,
+        "lng": -46.210845947,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "i5aermm1yx",
+        "feeling": "Sneaky",
+        "color": "#D10172",
+        "lat": 35.718643188,
+        "lng": 139.746109009,
+        "datetime": "2025-05-31T01:23:44.713Z"
+    },
+    {
+        "_id": "22e8cq5k2i",
+        "feeling": "Lonely AF",
+        "color": "#095FFF",
+        "lat": 41.982822418,
+        "lng": -87.659767151,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "3rq4skzaee",
+        "feeling": "Totz Bored",
+        "color": "#FF2E24",
+        "lat": 13.758333206,
+        "lng": 100.560501099,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "8wjuo38wow",
+        "feeling": "WTF?",
+        "color": "#4117FF",
+        "lat": 14.55212307,
+        "lng": 121.045776367,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "5kij8uplaw",
+        "feeling": "Irreverent",
+        "color": "#9F01AA",
+        "lat": 52.436450958,
+        "lng": -0.287003011,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "99b9d9stwy",
+        "feeling": "Dreamy",
+        "color": "#FFA620",
+        "lat": 41.013500214,
+        "lng": 28.934667587,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "9z1j4fr59m",
+        "feeling": "Sneaky",
+        "color": "#D10172",
+        "lat": 55.568260193,
+        "lng": 10.316311836,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "cq1qjt83ch",
+        "feeling": "Tired of this Sh*t",
+        "color": "#5E01F3",
+        "lat": -23.448987961,
+        "lng": -46.516178131,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "ctkksb18m9",
+        "feeling": "TGIF",
+        "color": "#FF5A0A",
+        "lat": 37.558166504,
+        "lng": 127.011497498,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "pavbntot3i",
+        "feeling": "Need a Xanax",
+        "color": "#2837FF",
+        "lat": 7.111600876,
+        "lng": -73.118614197,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "egepnx4eci",
+        "feeling": "YAZZZZ!",
+        "color": "#FFD538",
+        "lat": 33.42383194,
+        "lng": -117.617996216,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "jrq2se18oj",
+        "feeling": "Wait, whaaaat?",
+        "color": "#FF073A",
+        "lat": 41.674911499,
+        "lng": 1.844007015,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "4m8g5yvqw8",
+        "feeling": "In the Zone",
+        "color": "#FF800C",
+        "lat": 25.072694778,
+        "lng": 55.145614624,
+        "datetime": "2025-05-31T01:23:46.751Z"
+    },
+    {
+        "_id": "wf1uqrohhg",
+        "feeling": "Dreamy",
+        "color": "#FFA620",
+        "lat": 45.703250885,
+        "lng": 9.408046722,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "q3odpojp3s",
+        "feeling": "WTF?",
+        "color": "#4117FF",
+        "lat": 40.740333557,
+        "lng": -73.996002197,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "34ub867oon",
+        "feeling": "In the Zone",
+        "color": "#FF800C",
+        "lat": 43.750144958,
+        "lng": -79.281150818,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "myc3cjcofu",
+        "feeling": "Sneaky",
+        "color": "#D10172",
+        "lat": 35.641929626,
+        "lng": 140.089233398,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "0pnkkmzupj",
+        "feeling": "Wait, whaaaat?",
+        "color": "#FF073A",
+        "lat": 13.966404915,
+        "lng": 100.609397888,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "b9oxspn31c",
+        "feeling": "Irreverent",
+        "color": "#9F01AA",
+        "lat": -23.699188232,
+        "lng": -46.458221436,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "webxqzdz22",
+        "feeling": "Lonely AF",
+        "color": "#095FFF",
+        "lat": 33.108379364,
+        "lng": -97.116508484,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "kfsaivqyjf",
+        "feeling": "Totz Bored",
+        "color": "#FF2E24",
+        "lat": 48.78383255,
+        "lng": 44.761165619,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "vif81kon3p",
+        "feeling": "Need a Xanax",
+        "color": "#2837FF",
+        "lat": 46.448894501,
+        "lng": 30.711439133,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "me7l6knaj2",
+        "feeling": "YAZZZZ!",
+        "color": "#FFD538",
+        "lat": 40.49716568,
+        "lng": -74.45300293,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "7dn3hpg9ns",
+        "feeling": "TGIF",
+        "color": "#FF5A0A",
+        "lat": -23.535009384,
+        "lng": -46.488510132,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "7db3i456xc",
+        "feeling": "Tired of this Sh*t",
+        "color": "#5E01F3",
+        "lat": 40.032985687,
+        "lng": -82.904426575,
+        "datetime": "2025-05-31T01:23:47.462Z"
+    },
+    {
+        "_id": "607oubyyin",
+        "feeling": "Need a Xanax",
+        "color": "#2837FF",
+        "lat": 35.69178009,
+        "lng": 139.735671997,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "k23hvjrbei",
+        "feeling": "Irreverent",
+        "color": "#9F01AA",
+        "lat": 55.422370911,
+        "lng": 37.503799438,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "rz4f498mui",
+        "feeling": "TGIF",
+        "color": "#FF5A0A",
+        "lat": 13.72329998,
+        "lng": 100.382217407,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "gp9lrowvzs",
+        "feeling": "YAZZZZ!",
+        "color": "#FFD538",
+        "lat": 41.214061737,
+        "lng": 13.562588692,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "a7yk9t5xp4",
+        "feeling": "Dreamy",
+        "color": "#FFA620",
+        "lat": 42.254703522,
+        "lng": 1.862578034,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "80jvdx1qln",
+        "feeling": "In the Zone",
+        "color": "#FF800C",
+        "lat": 40.992332458,
+        "lng": 29.128000259,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "d1t8g1yuui",
+        "feeling": "Tired of this Sh*t",
+        "color": "#5E01F3",
+        "lat": 13.940044403,
+        "lng": 100.54750061,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "nb7cnxgk14",
+        "feeling": "Sneaky",
+        "color": "#D10172",
+        "lat": 41.491294861,
+        "lng": -8.719049454,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "4p7lf9mnc6",
+        "feeling": "Totz Bored",
+        "color": "#FF2E24",
+        "lat": 41.042499542,
+        "lng": 28.799833298,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "06glewk59l",
+        "feeling": "Wait, whaaaat?",
+        "color": "#FF073A",
+        "lat": 51.663719177,
+        "lng": -4.037345886,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "4oot6wrrej",
+        "feeling": "WTF?",
+        "color": "#4117FF",
+        "lat": 1.36766696,
+        "lng": 103.84967041,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "yligpn3w9l",
+        "feeling": "Lonely AF",
+        "color": "#095FFF",
+        "lat": 44.485687256,
+        "lng": 11.642471313,
+        "datetime": "2025-05-31T01:23:47.979Z"
+    },
+    {
+        "_id": "mxncdu6zpg",
+        "feeling": "YAZZZZ!",
+        "color": "#FFD538",
+        "lat": 39.974773407,
+        "lng": -75.127532959,
+        "datetime": "2025-05-31T01:23:48.485Z"
+    },
+    {
+        "_id": "zthqs0qvxa",
+        "feeling": "Wait, whaaaat?",
+        "color": "#FF073A",
+        "lat": 35.657333374,
+        "lng": 139.640670776,
+        "datetime": "2025-05-31T01:23:48.485Z"
+    },
+    {
+        "_id": "s0ogq0dtho",
+        "feeling": "Lonely AF",
+        "color": "#095FFF",
+        "lat": 3.593460083,
+        "lng": 98.671073914,
+        "datetime": "2025-05-31T01:23:48.485Z"
+    },
+    {
+        "_id": "3clcdi5zt7",
+        "feeling": "Tired of this Sh*t",
+        "color": "#5E01F3",
+        "lat": 47.606105804,
+        "lng": 19.346084595,
+        "datetime": "2025-05-31T01:23:48.485Z"
+    },
+    {
+        "_id": "ii2dv6ty4n",
+        "feeling": "In the Zone",
+        "color": "#FF800C",
+        "lat": 43.149833679,
+        "lng": -89.369163513,
+        "datetime": "2025-05-31T01:23:48.485Z"
+    },
+    {
+        "_id": "4a32oqeori",
+        "feeling": "Sneaky",
+        "color": "#D10172",
+        "lat": 25.014335632,
+        "lng": 121.533424377,
+        "datetime": "2025-05-31T01:23:48.485Z"
+    },
+    {
+        "_id": "ifteaygx91",
+        "feeling": "TGIF",
+        "color": "#FF5A0A",
+        "lat": 37.645332336,
+        "lng": 127.301498413,
+        "datetime": "2025-05-31T01:23:48.485Z"
+    },
+    {
+        "_id": "xyz1h4lpu7",
+        "feeling": "Need a Xanax",
+        "color": "#2837FF",
+        "lat": 52.111167908,
+        "lng": 5.037000179,
+        "datetime": "2025-05-31T01:23:48.485Z"
+    },
+    {
+        "_id": "8x2cd1ymfs",
+        "feeling": "WTF?",
+        "color": "#4117FF",
+        "lat": 40.684833527,
+        "lng": -73.321334839,
+        "datetime": "2025-05-31T01:23:48.485Z"
+    },
+    {
+        "_id": "a72jm96iid",
+        "feeling": "Irreverent",
+        "color": "#9F01AA",
+        "lat": 34.346073151,
+        "lng": 108.929222107,
+        "datetime": "2025-05-31T01:23:48.485Z"
+    },
+    {
+        "_id": "lm7ezhdgxi",
+        "feeling": "Dreamy",
+        "color": "#FFA620",
+        "lat": 31.233934402,
+        "lng": 121.46194458,
+        "datetime": "2025-05-31T01:23:48.485Z"
+    },
+    {
+        "_id": "mao8e2pwog",
+        "feeling": "Need a Xanax",
+        "color": "#2837FF",
+        "lat": 51.436313629,
+        "lng": 5.4853158,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "33ajlt9h5w",
+        "feeling": "Irreverent",
+        "color": "#9F01AA",
+        "lat": 34.100826263,
+        "lng": -118.185760498,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "4le6ra6q8b",
+        "feeling": "Tired of this Sh*t",
+        "color": "#5E01F3",
+        "lat": 44.696498871,
+        "lng": 10.605167389,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "2nxrliwyxj",
+        "feeling": "Sneaky",
+        "color": "#D10172",
+        "lat": 10.494905472,
+        "lng": -66.91330719,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "gf7gb7a0gw",
+        "feeling": "Wait, whaaaat?",
+        "color": "#FF073A",
+        "lat": 51.547485352,
+        "lng": 21.877529144,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "eetiqovgmi",
+        "feeling": "WTF?",
+        "color": "#4117FF",
+        "lat": 52.111167908,
+        "lng": 5.037000179,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "2ot6dpz4ue",
+        "feeling": "Lonely AF",
+        "color": "#095FFF",
+        "lat": 50.760501862,
+        "lng": -1.301666975,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "oemyx7w7eo",
+        "feeling": "TGIF",
+        "color": "#FF5A0A",
+        "lat": -6.286499977,
+        "lng": 106.755332947,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "7ku7tslcz4",
+        "feeling": "Dreamy",
+        "color": "#FFA620",
+        "lat": 31.233934402,
+        "lng": 121.46194458,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "ih65vwcill",
+        "feeling": "In the Zone",
+        "color": "#FF800C",
+        "lat": 45.381668091,
+        "lng": -73.502670288,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "l35tyuenjo",
+        "feeling": "Totz Bored",
+        "color": "#FF2E24",
+        "lat": 55.422374725,
+        "lng": 37.50378418,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "jbrahzabje",
+        "feeling": "YAZZZZ!",
+        "color": "#FFD538",
+        "lat": 13.76396656,
+        "lng": 100.46937561,
+        "datetime": "2025-05-31T01:23:49.032Z"
+    },
+    {
+        "_id": "l574awnzri",
+        "feeling": "Need a Xanax",
+        "color": "#2837FF",
+        "lat": 51.507228851,
+        "lng": 7.474091053,
+        "datetime": "2025-05-31T01:25:01.307Z"
+    },
+    {
+        "_id": "ekg927558g",
+        "feeling": "TGIF",
+        "color": "#FF5A0A",
+        "lat": 51.621440887,
+        "lng": -3.943646908,
+        "datetime": "2025-05-31T01:26:11.873Z"
+    },
+    {
+        "_id": "kq0owy0r97",
+        "feeling": "Need a Xanax",
+        "color": "#2837FF",
+        "lat": 45.712833405,
+        "lng": 12.192832947,
+        "datetime": "2025-05-31T01:26:26.621Z"
+    },
+    {
+        "_id": "683a5ffe92648a8029f7437b",
+        "feeling": "Totz Bored",
+        "color": "#FF2E24",
+        "lat": "5.9658",
+        "lng": "-1.4063",
+        "id": "sr2ge36aen",
+        "datetime": "2025-05-31T01:48:46.668Z"
+    }
+]
