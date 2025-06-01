@@ -5,8 +5,8 @@
 async function main() {
   // 👉 add code inside this function in Chapter 10 Ex. 10.3.1 Steps 2, 3...
   let data = await fetchFeelings();
-console.log(data);
-await updateMap(data);
+  console.log(data);
+  await updateMap(data);
 
   let data = await fetchFeelings();
   // console.log("data", data)
