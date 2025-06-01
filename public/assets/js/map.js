@@ -34,7 +34,14 @@ L.tileLayer(tiles, {
  */
 function updateMap(data) {  
   
-  // 👉 add code inside this function (Chapter 10) ...
+  // 👉 add code inside this function in Chapter 10 Ex. 10.3.1 Steps 4...
+  removeMarkers();
+  for (let i = 0; i < data.length; i++) {
+console.log(data[i]);
+markerLayer[i] = createMarker(data[i]);
+
+}
+
   
   // remove all the markers
   removeMarkers();
